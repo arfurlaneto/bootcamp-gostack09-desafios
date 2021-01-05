@@ -11,7 +11,7 @@
     "api": "yarn json-server server.json -p 3333 -w -H 192.168.0.46"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "immer": "^5.0.0",
     "numeral": "^2.0.6",
     "polished": "^3.4.2",
